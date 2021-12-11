@@ -87,7 +87,7 @@ a:hover {
   flex-direction: column;
   text-align: start;
   padding: 20px;
-  transition:0.5s;
+  transition:0.5s ease-in-out;
   -ms-overflow-style: none; /* for Internet Explorer, Edge */
     scrollbar-width: none; /* for Firefox */
     overflow-y: scroll; 
